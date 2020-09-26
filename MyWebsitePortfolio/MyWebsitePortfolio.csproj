@@ -67,9 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Home.css" />
-    <Content Include="Home.html" />
-    <Content Include="Home.js" />
+    <Content Include="index.css" />
+    <Content Include="index.html" />
+    <Content Include="index.js" />
     <Content Include="Images\logo1.png" />
     <Content Include="Images\logo2.jpg" />
     <Content Include="Images\logo3.png" />
